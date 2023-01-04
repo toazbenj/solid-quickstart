@@ -8,7 +8,7 @@ export default function Home() {
       <h1>test</h1>
       <Counter />
       <p>
-        1{" "}
+        2{" "}
         <a href="https://start.solidjs.com" target="_blank">
           start.solidjs.com
         </a>{" "}
